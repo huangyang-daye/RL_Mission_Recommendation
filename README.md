@@ -28,7 +28,5 @@
 | 任务 | 完成人 |
 | ---- | ---- |
 | 数据处理 | xxx |
-| Value_Based | xxx |
-| Policy_Based | xxx |
-| Actor_Critic | xxx |
+| DQN模型 | xxx |
 | 实验报告 | xx |
